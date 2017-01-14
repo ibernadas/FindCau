@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Moviments>
+    <MEG>
+        <Nom>Minyons Escoltes i Guies de Catalunya</Nom>
+        <Web>http://www.escoltesiguies.cat/</Web>
+        <Telefon>935902700</Telefon>
+        <Email></Email>
+        <Direccio>
+            <Carrer>Rambla Mn. Jacint Verdaguer, 10</Carrer>
+            <Poble>Valldoreix</Poble>
+            <CodiPostal>08197</CodiPostal>
+            <Provincia>Barcelona</Provincia>
+        </Direccio>
+        <Demarcacions>
+            <Demarcacio>
+                <Nom>Alt Ter</Nom>
+                <Seu>Vic</Seu>
+                <Telefon>938861555</Telefon>
+                <Email>altter@escoltesiguies.cat</Email>
+                <Direccio>
+                    <Carrer>Ronda Francesc Camprodon, 2</Carrer>
+                    <Poble>Vic</Poble>
+                    <CodiPostal>08500</CodiPostal>
+                    <Provincia>Barcelona</Provincia>
+                </Direccio>
+                <Web>http://demarcacions.escoltesiguies.cat/altter</Web>
+                <Caus>
+                </Caus>
+            </Demarcacio>
+            <Demarcacio>
+                <Nom>BaLLGaP</Nom>
+                <Seu>Sant Feliu del Llobregat</Seu>
+                <Telefon>693569468</Telefon>
+                <Email>bllgap@escoltesiguies.cat</Email>
+                <Direccio>
+                    <Carrer>N-340 pk 1249 (Parc de Torreblanca) - Consell Comarcal del Baix Llobregat</Carrer>
+                    <Poble>Sant Feliu de Llobregat</Poble>
+                    <CodiPostal>08980</CodiPostal>
+                    <Provincia>Barcelona</Provincia>
+                </Direccio>
+                <Web>http://demarcacions.escoltesiguies.cat/bllgap</Web>
+                <Caus>
+                </Caus>
+            </Demarcacio>
+            <Demarcacio>
+                <Nom>Barcelonès</Nom>
+                <Seu>Barcelona</Seu>
+                <Telefon>933403450</Telefon>
+                <Email>barcelones@escoltesiguies.cat</Email>
+                <Direccio>
+                    <Carrer>Pg. Fabra i Puig 260, 4t</Carrer>
+                    <Poble>Barcelona</Poble>
+                    <CodiPostal>08016</CodiPostal>
+                    <Provincia>Barcelona</Provincia>
+                </Direccio>
+                <Web>http://demarcacions.escoltesiguies.cat/barcelones</Web>
+                <Caus>
+                </Caus>
+            </Demarcacio>
+            <Demarcacio>
+                <Nom>Catalunya Central</Nom>
+                <Seu>Manresa</Seu>
+                <Telefon>938722254</Telefon>
+                <Email>catalunyacentral@escoltesiguies.cat</Email>
+                <Direccio>
+                    <Carrer>Vallfonollosa 11,1r-2n</Carrer>
+                    <Poble>Manresa</Poble>
+                    <CodiPostal>08241</CodiPostal>
+                    <Provincia>Barcelona</Provincia>
+                </Direccio>
+                <Web>http://demarcacions.escoltesiguies.cat/catalunyacentral</Web>
+                <Caus>
+                </Caus>
+            </Demarcacio>
+            <Demarcacio>
+                <Nom>Girona</Nom>
+                <Seu>Girona</Seu>
+                <Telefon>972249327</Telefon>
+                <Email>girona@escoltesiguies.cat</Email>
+                <Direccio>
+                    <Carrer>C/ Dr Antic Roca 38, 3r</Carrer>
+                    <Poble>Girona</Poble>
+                    <CodiPostal>17003</CodiPostal>
+                    <Provincia>Girona</Provincia>
+                </Direccio>
+                <Web>http://demarcacions.escoltesiguies.cat/girona</Web>
+                <Caus>
+                </Caus>
+            </Demarcacio>
+            <Demarcacio>
+                <Nom>Nord-Occidental</Nom>
+                <Seu>Tàrrega</Seu>
+                <Telefon>660761701</Telefon>
+                <Email>nordoccidental@escoltesiguies.cat</Email>
+                <Direccio>
+                    <Carrer>C/ Segle XX, 2</Carrer>
+                    <Poble>Tàrrega</Poble>
+                    <CodiPostal>25300</CodiPostal>
+                    <Provincia>Lleida</Provincia>
+                </Direccio>
+                <Web>http://demarcacions.escoltesiguies.cat/nord-occidental</Web>
+                <Caus>
+                </Caus>
+            </Demarcacio>
+            <Demarcacio>
+                <Nom>Tarragona</Nom>
+                <Seu>Tarragona</Seu>
+                <Telefon>977237613</Telefon>
+                <Email>tarragona@escoltesiguies.cat</Email>
+                <Direccio>
+                    <Carrer>C/ Coques, 1</Carrer>
+                    <Poble>Tarragona</Poble>
+                    <CodiPostal>43003</CodiPostal>
+                    <Provincia>Tarragona</Provincia>
+                </Direccio>
+                <Web>http://demarcacions.escoltesiguies.cat/tarragona</Web>
+                <Caus>
+                </Caus>
+            </Demarcacio>
+            <Demarcacio>
+                <Nom>Vallès/Maresme</Nom>
+                <Seu>Granollers</Seu>
+                <Telefon>938463235</Telefon>
+                <Email>vallesmaresme@escoltesiguies.cat</Email>
+                <Direccio>
+                    <Carrer>Carrer de Ponent, 55</Carrer>
+                    <Poble>Granollers</Poble>
+                    <CodiPostal>08401</CodiPostal>
+                    <Provincia>Barcelona</Provincia>
+                </Direccio>
+                <Web>http://demarcacions.escoltesiguies.cat/vallesmaresme</Web>
+                <Caus>
+                </Caus>
+            </Demarcacio>
+        </Demarcacions>
+    </MEG>
+</Moviments>

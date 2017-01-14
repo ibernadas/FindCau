@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <centres>
+        <element>
+            <address>Carrer Riego 107</address>
+            <barri>Centre</barri>
+            <comarca>Vallès occidental</comarca>
+            <correu>esplai.amunt@gmail.com</correu>
+            <cp>08202</cp>
+            <esplai_id>amunt</esplai_id>
+            <height>350</height>
+            <latitude>41.544155</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/nofoto-thumb.jpg</logotip>
+            <longitude>2.1149273</longitude>
+            <nom>A-munt</nom>
+            <poblacio>Sabadell</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>10</sector>
+            <tel>628495303</tel>
+            <web>esplaiamunt.blogspot.es</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>PLAÇA DE LA PAU S/N</address>
+            <barri>Barri Sud</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>esplai.aramateix@gmail.com</correu>
+            <cp>08960</cp>
+            <esplai_id>aramateix</esplai_id>
+            <height>350</height>
+            <latitude>41.38676</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/aramateix-1264001311-thumb.jpg</logotip>
+            <longitude>2.07069</longitude>
+            <nom>Ara Mateix</nom>
+            <poblacio>SANT JUST DESVERN</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>933727425</tel>
+            <web>www.esplaiaramateix.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>RAFAEL CASANOVA,5 MASIA CAN TINTORER</address>
+            <barri>CAN TINTORER</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>esplaiarcdesantmarti@hotmail.com</correu>
+            <cp>08850</cp>
+            <esplai_id>arcsantmarti</esplai_id>
+            <height>350</height>
+            <latitude>41.30317</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/nofoto-thumb.jpg</logotip>
+            <longitude>1.99934</longitude>
+            <nom>Arc de Sant Martí</nom>
+            <poblacio>GAVA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel />
+            <web>esplaiarcdesantmarti.entitats.gavaciutat.cat</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>RAVAL PADRÓ, 9</address>
+            <barri>Torrelles de Llobregat</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>equipdirectiu70@gmail.com</correu>
+            <cp>08629</cp>
+            <esplai_id>asmtorrelles</esplai_id>
+            <height>350</height>
+            <latitude>41.359455</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/asmtorrelles-1264001445-thumb.jpg</logotip>
+            <longitude>1.98095</longitude>
+            <nom>Arc de Sant Martí de Torrelles</nom>
+            <poblacio>TORRELLES DE LLOBREGAT</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>627781789</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>CARRER CARLES ALTÉS, 13-15 LOCAL</address>
+            <barri>Montserratina</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>asdiviesplai@gmail.com</correu>
+            <cp>08840</cp>
+            <esplai_id>asdivi</esplai_id>
+            <height>350</height>
+            <latitude>41.316006</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/asdivi-1265306000-thumb.jpg</logotip>
+            <longitude>2.01176</longitude>
+            <nom>Asdivi</nom>
+            <poblacio>VILADECANS</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>936591844</tel>
+            <web>www.asdivi.entitatsviladecans.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>PLAÇA ABAT OLIBA, S/N</address>
+            <barri>CARRER DE D'ALT</barri>
+            <comarca>BERGUEDÀ</comarca>
+            <correu>esplaiavia@gmail.com</correu>
+            <cp>08610</cp>
+            <esplai_id>avia</esplai_id>
+            <height>350</height>
+            <latitude>42.077473</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/avia-1350427921-thumb.jpg</logotip>
+            <longitude>1.825698</longitude>
+            <nom>Avià</nom>
+            <poblacio>AVIA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel>657823258</tel>
+            <web>www.facebook.com/esplaidavia</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Via Cannetum s/n Centre civic Vil·la Flora</address>
+            <barri />
+            <comarca>MARESME</comarca>
+            <correu>bitxusesplai@gmail.com</correu>
+            <cp>08360</cp>
+            <esplai_id>bitxus</esplai_id>
+            <height>350</height>
+            <latitude>41.591454</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/bitxus-1291135191-thumb.jpg</logotip>
+            <longitude>2.5727775</longitude>
+            <nom>Bitxus</nom>
+            <poblacio>CANET DE MAR</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>6</sector>
+            <tel />
+            <web>esplaibitxus.webnode.es</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>La Fusteria (Carrer Llinars, s/n)</address>
+            <barri />
+            <comarca>VALLÈS ORIENTAL</comarca>
+            <correu>esplai@bruixesibruixots.org</correu>
+            <cp>08440</cp>
+            <esplai_id>bruixesibruixots</esplai_id>
+            <height>350</height>
+            <latitude>41.638157</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/bruixesibruixots-1264001743-thumb.jpg</logotip>
+            <longitude>2.362522</longitude>
+            <nom>Bruixes i Bruixots</nom>
+            <poblacio>CARDEDEU</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>6</sector>
+            <tel />
+            <web>www.bruixesibruixots.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>PLAÇA ILLA DELS MÚSICS S/N</address>
+            <barri>La Pau</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplaibuenoyque@gmail.com</correu>
+            <cp>08917</cp>
+            <esplai_id>buenoyque</esplai_id>
+            <height>350</height>
+            <latitude>41.451366</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/buenoyque-1315582425-thumb.jpg</logotip>
+            <longitude>2.2224007</longitude>
+            <nom>Buenoyqué...!</nom>
+            <poblacio>BADALONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>4</sector>
+            <tel />
+            <web>www.esplaibuenoyque.blogspot.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Parc de la Quadra d'Enveja s/n</address>
+            <barri>Sant Joan</barri>
+            <comarca>GARRAF</comarca>
+            <correu>esplai@dracmagic.org</correu>
+            <cp>08800</cp>
+            <esplai_id>dracmagic</esplai_id>
+            <height>350</height>
+            <latitude>41.224697</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/dracmagic-1395747213-thumb.jpg</logotip>
+            <longitude>1.713835</longitude>
+            <nom>C.E.Drac Màgic</nom>
+            <poblacio>VILANOVA I LA GELTRU</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>8</sector>
+            <tel>608363882</tel>
+            <web>http://www.dracmagic.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>BELLES ARTS, 15</address>
+            <barri />
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>elclupi@gmail.com</correu>
+            <cp>08290</cp>
+            <esplai_id>cicerdanyola</esplai_id>
+            <height>350</height>
+            <latitude>41.488235</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/cicerdanyola-1264155924-thumb.jpg</logotip>
+            <longitude>2.13749</longitude>
+            <nom>C.I. Cerdanyola</nom>
+            <poblacio>CERDANYOLA DEL VALLES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel />
+            <web>www.clupi.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>AMÈRICA, 17</address>
+            <barri>Can Parellada</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplaicanparellada@hotmail.com</correu>
+            <cp>08228</cp>
+            <esplai_id>canperellada</esplai_id>
+            <height>350</height>
+            <latitude>41.53927</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/canperellada-1350641481-thumb.jpg</logotip>
+            <longitude>2.04202</longitude>
+            <nom>Can Parellada</nom>
+            <poblacio>TERRASSA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel />
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Riera de Sant Pere, 147</address>
+            <barri>nucli antic</barri>
+            <comarca>MARESME</comarca>
+            <correu>caulespolsada@gmail.com</correu>
+            <cp>08338</cp>
+            <esplai_id>espolsada</esplai_id>
+            <height>350</height>
+            <latitude>41.50702</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/espolsada-1356643381-thumb.jpg</logotip>
+            <longitude>2.343959</longitude>
+            <nom>Cau l'Espolsada</nom>
+            <poblacio>PREMIA DE DALT</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>6</sector>
+            <tel>620711956</tel>
+            <web>https://www.facebook.com/cauespolsada?ref=ts&amp;fref=</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Rocafort 236, baixos (Espai Lola Anglada)</address>
+            <barri>Nova Esquerra de l'Eixample</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>boix@ceboix.org</correu>
+            <cp>08029</cp>
+            <esplai_id>boix</esplai_id>
+            <height>350</height>
+            <latitude>41.38577</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/boix-1264002292-thumb.jpg</logotip>
+            <longitude>2.1458838</longitude>
+            <nom>Centre d'Esplai Boix</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel />
+            <web>www.ceboix.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>JACINT VERDAGUER</address>
+            <barri>.</barri>
+            <comarca>BAGES</comarca>
+            <correu>esplaicercamon13@hotmail.com</correu>
+            <cp>08262</cp>
+            <esplai_id>cercamon</esplai_id>
+            <height>350</height>
+            <latitude>41.783405</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/cercamon-1264002236-thumb.jpg</logotip>
+            <longitude>1.78443</longitude>
+            <nom>Cercamón</nom>
+            <poblacio>CALLUS</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel>682848266</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ EDUARD MARQUINA, 18-20 Local</address>
+            <barri>CANYADÓ </barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>elmicaquer@gmail.com</correu>
+            <cp>08911</cp>
+            <esplai_id>diplodocus</esplai_id>
+            <height>350</height>
+            <latitude>41.457058</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/diplodocus-1277219940-thumb.jpg</logotip>
+            <longitude>2.2588377</longitude>
+            <nom>Diplodocus</nom>
+            <poblacio>BADALONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>4</sector>
+            <tel>933842636</tel>
+            <web>www.elmicaquer.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>PLAÇA IMMACULADA, 4</address>
+            <barri>EGARA</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplai_egara@hotmail.es</correu>
+            <cp>08226</cp>
+            <esplai_id>egara</esplai_id>
+            <height>350</height>
+            <latitude>41.57317</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/egara-1264002430-thumb.jpg</logotip>
+            <longitude>2.02851</longitude>
+            <nom>Egara</nom>
+            <poblacio>TERRASSA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>637960818</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>c/Moli, 21</address>
+            <barri>Plana del Castell</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>ceeixam@gmail.com</correu>
+            <cp>08191</cp>
+            <esplai_id>eixam</esplai_id>
+            <height>350</height>
+            <latitude>41.49397</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/eixam-1290528001-thumb.jpg</logotip>
+            <longitude>2.02745</longitude>
+            <nom>Eixam</nom>
+            <poblacio>RUBI</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>682550821</tel>
+            <web>esplaieixam.blogspot.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Passeig de la Carrerada, sense número</address>
+            <barri />
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplaielboto@gmail.com</correu>
+            <cp>08184</cp>
+            <esplai_id>elboto</esplai_id>
+            <height>350</height>
+            <latitude>41.58646</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/elboto-1263896575-thumb.jpg</logotip>
+            <longitude>2.17755</longitude>
+            <nom>El Botó</nom>
+            <poblacio>PALAU-SOLITA I PLEGAMANS</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>938645800</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address> Pl. Pompeu Fabra, s/n( Annex Biblioteca Lambert Mata )</address>
+            <barri />
+            <comarca>RIPOLLÈS</comarca>
+            <correu>elgallxafarder@gmail.com</correu>
+            <cp>17500</cp>
+            <esplai_id>gallxafarder</esplai_id>
+            <height>350</height>
+            <latitude>42.19965</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/gallxafarder-1265125549-thumb.jpg</logotip>
+            <longitude>2.1887565</longitude>
+            <nom>El Gall Xafarder</nom>
+            <poblacio>RIPOLL</poblacio>
+            <provincia>GIRONA</provincia>
+            <sector>7</sector>
+            <tel />
+            <web>https://sites.google.com/site/gallxafarder/calenda</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Avinguda Catalunya 43 4t pis (Centre Recreatiu)</address>
+            <barri />
+            <comarca>ALT PENEDÈS</comarca>
+            <correu>elgotim@gmail.com</correu>
+            <cp>08736</cp>
+            <esplai_id>gotim</esplai_id>
+            <height>350</height>
+            <latitude>41.414616</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/gotim-1263977412-thumb.jpg</logotip>
+            <longitude>1.6504169</longitude>
+            <nom>El Gotim</nom>
+            <poblacio>FONT-RUBI</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>8</sector>
+            <tel>671664098</tel>
+            <web>elgotim.blogspot.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Les Vilanes S/N (Local Jove Can Batlle)</address>
+            <barri>Santa Maria</barri>
+            <comarca>Maresme</comarca>
+            <correu>esplaielpas@gmail.com</correu>
+            <cp>08389</cp>
+            <esplai_id>elpas</esplai_id>
+            <height>350</height>
+            <latitude>41.674488</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/nofoto-thumb.jpg</logotip>
+            <longitude>2.748681</longitude>
+            <nom>El Pas</nom>
+            <poblacio>Palafolls</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>6</sector>
+            <tel />
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Nemesi valls, 35</address>
+            <barri>-</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplai.elpiolet@gmail.com</correu>
+            <cp>08210</cp>
+            <esplai_id>piolet</esplai_id>
+            <height>350</height>
+            <latitude>41.516727</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/piolet-1263911357-thumb.jpg</logotip>
+            <longitude>2.12872</longitude>
+            <nom>El Piolet</nom>
+            <poblacio>BARBERA DEL VALLES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>000000000</tel>
+            <web>http://elpiolet.blogspot.com.es/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>plaça de l'esglèsia, 1</address>
+            <barri>Centre</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>ce.elrefugi@gmail.com</correu>
+            <cp>08130</cp>
+            <esplai_id>refugi</esplai_id>
+            <height>350</height>
+            <latitude>41.48687</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/refugi-1358254274-thumb.jpg</logotip>
+            <longitude>2.1879687</longitude>
+            <nom>El Refugi</nom>
+            <poblacio>SANTA PERPETUA DE MOGODA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>670236519</tel>
+            <web>http://esplaielrefugi.cat/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Sant Pere nª 45, baixos</address>
+            <barri>El Serrallo</barri>
+            <comarca>TARRAGONÈS</comarca>
+            <correu>esplaidelserrallo@gmail.com</correu>
+            <cp>43004</cp>
+            <esplai_id>serrallo</esplai_id>
+            <height>350</height>
+            <latitude>41.109844</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/serrallo-1354229011-thumb.jpg</logotip>
+            <longitude>1.2407459</longitude>
+            <nom>El Serrallo</nom>
+            <poblacio>TARRAGONA</poblacio>
+            <provincia>TARRAGONA</provincia>
+            <sector>12</sector>
+            <tel>692257060</tel>
+            <web>http://usuaris.tinet.cat/esplais/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Plaça Joan Miró, s/n</address>
+            <barri>Mont-roig del camp</barri>
+            <comarca>BAIX CAMP</comarca>
+            <correu>elsbrivalls@hotmail.com</correu>
+            <cp>43300</cp>
+            <esplai_id>brivalls</esplai_id>
+            <height>350</height>
+            <latitude>41.08796</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/brivalls-1291300167-thumb.jpg</logotip>
+            <longitude>0.958423</longitude>
+            <nom>Els Brivalls</nom>
+            <poblacio>MONT-ROIG DEL CAMP</poblacio>
+            <provincia>TARRAGONA</provincia>
+            <sector>12</sector>
+            <tel>654619711</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ d'en Bosc, 10-12</address>
+            <barri />
+            <comarca>GARRAF</comarca>
+            <correu>esplai@agrupasitges.org</correu>
+            <cp>08870</cp>
+            <esplai_id>esplaiabpsitges</esplai_id>
+            <height>350</height>
+            <latitude>41.235596</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/esplaiabpsitges-1263994343-thumb.jpg</logotip>
+            <longitude>1.8120977</longitude>
+            <nom>Esplai de l'ABP de Sitges</nom>
+            <poblacio>SITGES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>8</sector>
+            <tel>938117375</tel>
+            <web>www.agrupasitges.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ POMPEU FABRA,184 bxs</address>
+            <barri />
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>rocioalises@hotmail.com</correu>
+            <cp>08850</cp>
+            <esplai_id>saurus</esplai_id>
+            <height>350</height>
+            <latitude>41.30317</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/saurus-1265125251-thumb.jpg</logotip>
+            <longitude>2.00321</longitude>
+            <nom>Esplai Saurus</nom>
+            <poblacio>GAVA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>676888678</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Plaça Bonet i Muixí s/n</address>
+            <barri>Sants</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplaiespurna@gmail.com</correu>
+            <cp>08014</cp>
+            <esplai_id>espurna</esplai_id>
+            <height>350</height>
+            <latitude>41.37417</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/espurna-1321873353-thumb.jpg</logotip>
+            <longitude>2.1365242</longitude>
+            <nom>Espurna</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel />
+            <web>http://esplaiespurna.wixsite.com/eespurna</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>c/ Jaén 7-15</address>
+            <barri>Gràcia</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>espurnadegracia@gmail.com</correu>
+            <cp>08012</cp>
+            <esplai_id>espurnagracia</esplai_id>
+            <height>350</height>
+            <latitude>41.403305</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/espurnagracia-1352835449-thumb.jpg</logotip>
+            <longitude>2.1523325</longitude>
+            <nom>Espurna de Gràcia</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>676019013</tel>
+            <web> http://esplaiespurnagracia.wix.com/esplaiespurnag</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>ST JOAN DE LA CREU, 70</address>
+            <barri>Sant Crist de Can cabanyes</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>lamussara@yahoo.es</correu>
+            <cp>08915</cp>
+            <esplai_id>esquirol</esplai_id>
+            <height>350</height>
+            <latitude>41.450672</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/esquirol-1339002617-thumb.jpg</logotip>
+            <longitude>2.23714</longitude>
+            <nom>Esquirol</nom>
+            <poblacio>BADALONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>4</sector>
+            <tel>933874614</tel>
+            <web>http://associaciomussara.blogspot.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>LA MOLA Nº 2</address>
+            <barri>SANT LLORENÇ</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplai.farfalla@gmail.com</correu>
+            <cp>08227</cp>
+            <esplai_id>farfalla</esplai_id>
+            <height>350</height>
+            <latitude>41.57714</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/farfalla-1390589807-thumb.jpg</logotip>
+            <longitude>2.0297778</longitude>
+            <nom>Farfalla</nom>
+            <poblacio>TERRASSA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel />
+            <web>ESPLAIFARFALLA.BLOGSPOT.COM</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Plaça Europa</address>
+            <barri />
+            <comarca>BERGUEDÀ</comarca>
+            <correu>gefc79@gmail.com</correu>
+            <cp>08600</cp>
+            <esplai_id>fentcami</esplai_id>
+            <height>350</height>
+            <latitude>42.099194</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/fentcami-1321976693-thumb.jpg</logotip>
+            <longitude>1.8474627</longitude>
+            <nom>Fent Camí</nom>
+            <poblacio>BERGA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel />
+            <web>gefc79.blogspot.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Mare de deu del Carme, 22</address>
+            <barri>Sant Joan Baptista</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>gadgetosplai@hotmail.com</correu>
+            <cp>08930</cp>
+            <esplai_id>gadgetosplai</esplai_id>
+            <height>350</height>
+            <latitude>41.426754</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/gadgetosplai-1323464409-thumb.jpg</logotip>
+            <longitude>2.223452</longitude>
+            <nom>Gadgetosplai</nom>
+            <poblacio>SANT ADRIA DE BESOS</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>4</sector>
+            <tel>661832998</tel>
+            <web>www.facebook.com/gadgetosplai</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>RONDA O'DONNELL,94 (Casa de les Esmandies)</address>
+            <barri>Peramàs - Esmandies</barri>
+            <comarca>MARESME</comarca>
+            <correu>esplaigarbi@gmail.com</correu>
+            <cp>08302</cp>
+            <esplai_id>garbi</esplai_id>
+            <height>350</height>
+            <latitude>41.540016</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/garbi-1265124893-thumb.jpg</logotip>
+            <longitude>2.4349804</longitude>
+            <nom>Garbí</nom>
+            <poblacio>MATARO</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>6</sector>
+            <tel>937986102</tel>
+            <web>www.esplai-garbi.blogspot.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Bellavista 47-49 (entrada per Joan Maragall)</address>
+            <barri />
+            <comarca>Vallès Occidental</comarca>
+            <correu>esplaigatzara@gmail.com</correu>
+            <cp>08755</cp>
+            <esplai_id>gatzara</esplai_id>
+            <height>350</height>
+            <latitude>41.47186</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/gatzara-1319810269-thumb.jpg</logotip>
+            <longitude>1.9791</longitude>
+            <nom>Gatzara</nom>
+            <poblacio>CASTELLBISBAL</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>937721500</tel>
+            <web>www.esplaigatzara.cat</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>c/Torregassa 35-37</address>
+            <barri />
+            <comarca>Vallès oriental</comarca>
+            <correu>esplai_gepa@hotmail.com</correu>
+            <cp>08480</cp>
+            <esplai_id>gepa</esplai_id>
+            <height>350</height>
+            <latitude>41.66949</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/gepa-1265124776-thumb.jpg</logotip>
+            <longitude>2.2623</longitude>
+            <nom>GEPA</nom>
+            <poblacio>AMETLLA DEL VALLES, L</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>10</sector>
+            <tel>627730537</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Font Barrera s/n o Plaça de l'Església s/n (Locals Parroquials)</address>
+            <barri>Casc Antic</barri>
+            <comarca>BAGES</comarca>
+            <correu>esplaigeps@gmail.com</correu>
+            <cp>08251</cp>
+            <esplai_id>geps</esplai_id>
+            <height>350</height>
+            <latitude>41.784267</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/geps-1263911177-thumb.jpg</logotip>
+            <longitude>1.8391623</longitude>
+            <nom>GEPS</nom>
+            <poblacio>SANTPEDOR</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel />
+            <web>http://esplaigepssantpedor.wordpress.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>El Pi, 25</address>
+            <barri />
+            <comarca>GARRAF</comarca>
+            <correu>esplaiger@gmail.com</correu>
+            <cp>08810</cp>
+            <esplai_id>ger</esplai_id>
+            <height>350</height>
+            <latitude>41.26254</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/ger-1336559520-thumb.jpg</logotip>
+            <longitude>1.7737126</longitude>
+            <nom>GER</nom>
+            <poblacio>SANT PERE DE RIBES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>8</sector>
+            <tel>938961200</tel>
+            <web>http://www.esplaiger.blogspot.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>PLAÇA  ALCALDE ROMEU s/n (porta vermella)</address>
+            <barri />
+            <comarca>BAIX PENEDÉS</comarca>
+            <correu>globusroig@hotmail.com</correu>
+            <cp>43820</cp>
+            <esplai_id>globusroig</esplai_id>
+            <height>350</height>
+            <latitude>41.187267</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/globusroig-1265124741-thumb.jpg</logotip>
+            <longitude>1.5687168</longitude>
+            <nom>Globus Roig</nom>
+            <poblacio>CALAFELL</poblacio>
+            <provincia>TARRAGONA</provincia>
+            <sector>8</sector>
+            <tel>695467796</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>PLAÇA DEL NORD, 7-10</address>
+            <barri>Vila de Gràcia</barri>
+            <comarca>BARCELONÉS</comarca>
+            <correu>esplaigmm@gmail.com</correu>
+            <cp>08024</cp>
+            <esplai_id>gmm</esplai_id>
+            <height>350</height>
+            <latitude>41.40719</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/gmm-1339435093-thumb.jpg</logotip>
+            <longitude>2.155391</longitude>
+            <nom>GMM</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>932183372</tel>
+            <web>http://www.esplaigmm.org/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Passatge ca la Nor, 2</address>
+            <barri>Centre</barri>
+            <comarca>Baix Llobregat</comarca>
+            <correu>esplaigreska@gmail.com</correu>
+            <cp>08830</cp>
+            <esplai_id>greska</esplai_id>
+            <height>350</height>
+            <latitude>41.347385</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/greska-1341412972-thumb.jpg</logotip>
+            <longitude>2.043103</longitude>
+            <nom>Greska</nom>
+            <poblacio>SANT BOI DE LLOBREGAT</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>2</sector>
+            <tel>620964210</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Mig, 23</address>
+            <barri />
+            <comarca>BAGES</comarca>
+            <correu>campamentsesparver@gmail.com</correu>
+            <cp>08279</cp>
+            <esplai_id>esparver</esplai_id>
+            <height>350</height>
+            <latitude>41.863087</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/esparver-1368055281-thumb.jpg</logotip>
+            <longitude>1.969942</longitude>
+            <nom>Grup de Campaments l'Esparver</nom>
+            <poblacio>AVINYO</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel>671943045</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Plaçeta nº 6, baixos</address>
+            <barri>Nucli antic</barri>
+            <comarca>ANOIA</comarca>
+            <correu>esplaimontbui@gmail.com</correu>
+            <cp>08710</cp>
+            <esplai_id>montbui</esplai_id>
+            <height>350</height>
+            <latitude>41.55635</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/montbui-1307026130-thumb.jpg</logotip>
+            <longitude>1.6052659</longitude>
+            <nom>Grup Esplai Montbui</nom>
+            <poblacio>SANTA MARGARIDA DE MONTBUI</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>8</sector>
+            <tel>627611659</tel>
+            <web>http://grupesplaimontbui.wordpress.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Psg. Dr. Francesc Fàbregas s/n</address>
+            <barri>Palou</barri>
+            <comarca>Vallès Oriental</comarca>
+            <correu>esplai@esplaiguai.org</correu>
+            <cp>08401</cp>
+            <esplai_id>guai</esplai_id>
+            <height>350</height>
+            <latitude>41.586243</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/guai-1416505610-thumb.jpg</logotip>
+            <longitude>2.281515</longitude>
+            <nom>Guai!</nom>
+            <poblacio>Granollers</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>10</sector>
+            <tel>717701980</tel>
+            <web>www.esplaiguai.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>AVDA. FERRAN FABRA, 1</address>
+            <barri />
+            <comarca>MARESME</comarca>
+            <correu>esplai.guaital@gmail.com</correu>
+            <cp>08328</cp>
+            <esplai_id>guaital</esplai_id>
+            <height>350</height>
+            <latitude>41.496353</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/guaital-1265124431-thumb.jpg</logotip>
+            <longitude>2.295112</longitude>
+            <nom>Guaita'l</nom>
+            <poblacio>ALELLA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>6</sector>
+            <tel />
+            <web>https://www.facebook.com/EsplaiGuaitalAlella?fref=</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>PLAÇA OLEGUER MIRÓ, S/N</address>
+            <barri>La Balconada</barri>
+            <comarca>BAGES</comarca>
+            <correu>guguesplai@live.com</correu>
+            <cp>08240</cp>
+            <esplai_id>guguesplai</esplai_id>
+            <height>350</height>
+            <latitude>41.718643</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/guguesplai-1348398420-thumb.jpg</logotip>
+            <longitude>1.83696</longitude>
+            <nom>Gugu Esplai</nom>
+            <poblacio>MANRESA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel />
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>PLAÇA CA N'ENSENYA  4</address>
+            <barri>Guineueta</barri>
+            <comarca>BARCELONÉS</comarca>
+            <correu>esplaiguineueta@gmail.com</correu>
+            <cp>08042</cp>
+            <esplai_id>guineueta</esplai_id>
+            <height>350</height>
+            <latitude>41.4387</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/guineueta.esplai-1265124273-thumb.jpg</logotip>
+            <longitude>2.1693</longitude>
+            <nom>Guineueta</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>933594000</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>CARRER JAUME BALMES, 51</address>
+            <barri>Foment</barri>
+            <comarca>OSONA</comarca>
+            <correu>guitxiguitxi@gmail.com</correu>
+            <cp>08551</cp>
+            <esplai_id>guitxiguitxi</esplai_id>
+            <height>350</height>
+            <latitude>41.84912</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/guitxiguitxi-1284714796-thumb.jpg</logotip>
+            <longitude>2.22808</longitude>
+            <nom>Güitxi - Güitxi</nom>
+            <poblacio>TONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>7</sector>
+            <tel>608242463</tel>
+            <web>www.guitxiguitxi.net</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Plaça Doctor Fleming</address>
+            <barri>Buenos Aires</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>esplaiguspira@gmail.com</correu>
+            <cp>08760</cp>
+            <esplai_id>guspira</esplai_id>
+            <height>350</height>
+            <latitude>41.47359</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/guspira-1341412562-thumb.jpg</logotip>
+            <longitude>1.927655</longitude>
+            <nom>Guspira</nom>
+            <poblacio>MARTORELL</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>674620622</tel>
+            <web>www.esplaiguspira.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Feliu i Codina 20-22</address>
+            <barri>Horta</barri>
+            <comarca>BARCELONÉS</comarca>
+            <correu>isardflo@gmail.com</correu>
+            <cp>08031</cp>
+            <esplai_id>isardflordeneu</esplai_id>
+            <height>350</height>
+            <latitude>41.432762</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/isardflordeneu-1383602231-thumb.jpg</logotip>
+            <longitude>2.16069</longitude>
+            <nom>Isard-Flor de Neu</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel />
+            <web>www.isardflordeneu.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Plaça del Perelló</address>
+            <barri>El Perelló</barri>
+            <comarca>GIRONÈS</comarca>
+            <correu>esplaikamono@gmail.com</correu>
+            <cp>17180</cp>
+            <esplai_id>kamono</esplai_id>
+            <height>350</height>
+            <latitude>41.952747</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/kamono-1389729255-thumb.jpg</logotip>
+            <longitude>2.799964</longitude>
+            <nom>Kamono</nom>
+            <poblacio>VILABLAREIX</poblacio>
+            <provincia>GIRONA</provincia>
+            <sector>5</sector>
+            <tel>972495655</tel>
+            <web>http://esplaikamono.wixsite.com/esplaikamono</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Freser 101</address>
+            <barri>Clot-Camp de l'Arpa</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplaikasperle@gmail.com</correu>
+            <cp>08041</cp>
+            <esplai_id>kasperle</esplai_id>
+            <height>350</height>
+            <latitude>41.41634</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/kasperle-1410258343-thumb.jpg</logotip>
+            <longitude>2.182771</longitude>
+            <nom>Kasperle</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>717191029</tel>
+            <web>http://esplaikasperle.wixsite.com/esplaikasperle</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/RAFAEL CASANOVA, 26-28</address>
+            <barri>Centre</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>esplailagrupa@gmail.com</correu>
+            <cp>08750</cp>
+            <esplai_id>agrupa</esplai_id>
+            <height>350</height>
+            <latitude>41.411263</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/agrupa-1264417496-thumb.jpg</logotip>
+            <longitude>2.01779</longitude>
+            <nom>L'Agrupa</nom>
+            <poblacio>MOLINS DE REI</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>936800837</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Sant Pere, 25</address>
+            <barri />
+            <comarca>TARRAGONÈS</comarca>
+            <correu>esplaiesclop@gmail.com</correu>
+            <cp>43480</cp>
+            <esplai_id>esclop</esplai_id>
+            <height>350</height>
+            <latitude>41.109585</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/esclop-1349963114-thumb.jpg</logotip>
+            <longitude>1.1466852</longitude>
+            <nom>L'Esclop</nom>
+            <poblacio>VILA-SECA</poblacio>
+            <provincia>TARRAGONA</provincia>
+            <sector>12</sector>
+            <tel>637136052</tel>
+            <web>http://esplaiesclop.blogspot.com.es/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Doctor Nubiola i Espinós, 6D</address>
+            <barri>Les Corts</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>oliverarodona@gmail.com</correu>
+            <cp>08028</cp>
+            <esplai_id>oliverarodona</esplai_id>
+            <height>350</height>
+            <latitude>41.383514</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/oliverarodona-1339435148-thumb.jpg</logotip>
+            <longitude>2.1340084</longitude>
+            <nom>L'Olivera Rodona</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>689678673</tel>
+            <web>www.oliverarodona.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address> C/ Mallorca SN</address>
+            <barri>Ca n'Oriol</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>laclauulele@gmail.com</correu>
+            <cp>08191</cp>
+            <esplai_id>claudulele</esplai_id>
+            <height>350</height>
+            <latitude>41.49095</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/claudulele-1332340485-thumb.jpg</logotip>
+            <longitude>2.03378</longitude>
+            <nom>La Clau d’Ulele</nom>
+            <poblacio>RUBI</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>697828027</tel>
+            <web>laclauulele.jimdo.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Plaça de la cultura s/n</address>
+            <barri> Poblenou</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplai.lafera@gmail.com</correu>
+            <cp>08225</cp>
+            <esplai_id>lafera</esplai_id>
+            <height>350</height>
+            <latitude>41.577026</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/lafera-1347961597-thumb.jpg</logotip>
+            <longitude>2.0064318</longitude>
+            <nom>La Fera</nom>
+            <poblacio>TERRASSA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>687292711</tel>
+            <web>http://esplailafera.wordpress.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Ronda Arraona, 29-31</address>
+            <barri>Sant Quirze del Vallès</barri>
+            <comarca>Vallès Occidental</comarca>
+            <correu>esplailaflamasqv@gmail.com</correu>
+            <cp>08192</cp>
+            <esplai_id>laflama</esplai_id>
+            <height>350</height>
+            <latitude>41.51258</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/nofoto-thumb.jpg</logotip>
+            <longitude>2.1453297</longitude>
+            <nom>La Flama</nom>
+            <poblacio>Sant Quirze del Vallès</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>10</sector>
+            <tel>628116861</tel>
+            <web>No en tenim</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Local Social s/n</address>
+            <barri>La Floresta</barri>
+            <comarca>TARRAGONÈS</comarca>
+            <correu>grupesplailafloresta@gmail.com</correu>
+            <cp>43006</cp>
+            <esplai_id>floresta</esplai_id>
+            <height>350</height>
+            <latitude>41.12636</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/nofoto-thumb.jpg</logotip>
+            <longitude>1.212771</longitude>
+            <nom>La Floresta</nom>
+            <poblacio>TARRAGONA</poblacio>
+            <provincia>TARRAGONA</provincia>
+            <sector>12</sector>
+            <tel />
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Avda/ Andorra 15 baixos 4A</address>
+            <barri>Avinguda Andorra </barri>
+            <comarca>TARRAGONÈS</comarca>
+            <correu>esplai.lagrapadora@gmail.com</correu>
+            <cp>43002</cp>
+            <esplai_id>lagrapadora</esplai_id>
+            <height>350</height>
+            <latitude>41.121998</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/lagrapadora-1365155719-thumb.jpg</logotip>
+            <longitude>1.2444686</longitude>
+            <nom>La Grapadora</nom>
+            <poblacio>TARRAGONA</poblacio>
+            <provincia>TARRAGONA</provincia>
+            <sector>12</sector>
+            <tel>675410488</tel>
+            <web>www.esplailagrapadora.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Ermengarda 11-25</address>
+            <barri>Hostafrancs</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplailalluna@gmail.com</correu>
+            <cp>08014</cp>
+            <esplai_id>lalluna</esplai_id>
+            <height>350</height>
+            <latitude>41.37671</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/lalluna-1453110873-thumb.jpg</logotip>
+            <longitude>2.142423</longitude>
+            <nom>La Lluna</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>934262525</tel>
+            <web>www.esplailalluna.entitatsbcn.net</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>c/ Mare de Déu de Port, 363</address>
+            <barri>La Marina</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>laplatgetadelamarina@gmail.com</correu>
+            <cp>08038</cp>
+            <esplai_id>platgetamarina</esplai_id>
+            <height>350</height>
+            <latitude>41.36312</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/platgetamarina-1355502870-thumb.jpg</logotip>
+            <longitude>2.139432</longitude>
+            <nom>La Platgeta de la Marina</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>634566213</tel>
+            <web>http://laplatgeta.blogspot.com.es/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Pujada de l'Estació, 15</address>
+            <barri>El Firal</barri>
+            <comarca>SELVA</comarca>
+            <correu>lateranyinaesplai@gmail.com</correu>
+            <cp>17170</cp>
+            <esplai_id>lateranyina</esplai_id>
+            <height>350</height>
+            <latitude>42.009747</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/lateranyina-1322518357-thumb.jpg</logotip>
+            <longitude>2.598842</longitude>
+            <nom>La Teranyina</nom>
+            <poblacio>AMER</poblacio>
+            <provincia>GIRONA</provincia>
+            <sector>5</sector>
+            <tel />
+            <web>www.facebook.com/lateranyina</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Nicolau Guanyabéns, 23-25</address>
+            <barri>MOLINS</barri>
+            <comarca>MARESME</comarca>
+            <correu>esplailatribu@gmail.com</correu>
+            <cp>08304</cp>
+            <esplai_id>tribu</esplai_id>
+            <height>350</height>
+            <latitude>41.54758</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/tribu-1289472269-thumb.jpg</logotip>
+            <longitude>2.443605</longitude>
+            <nom>La Tribu</nom>
+            <poblacio>MATARÓ</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>6</sector>
+            <tel />
+            <web>esplailatribu0.blogspot.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Ronda de les Tàpies, 47</address>
+            <barri>Centelles</barri>
+            <comarca>Osona</comarca>
+            <correu>esplailes100teies@gmail.com</correu>
+            <cp>08540</cp>
+            <esplai_id>100teies</esplai_id>
+            <height>350</height>
+            <latitude>41.796463</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/100teies-1339619183-thumb.jpg</logotip>
+            <longitude>2.2192</longitude>
+            <nom>Les 100 Teies</nom>
+            <poblacio>CENTELLES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>7</sector>
+            <tel>646634831</tel>
+            <web>http://esplailes100teies.wix.com/esplailes100teies</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Carrer dels Avets S/N</address>
+            <barri>El Serrat</barri>
+            <comarca>BAGES</comarca>
+            <correu>esplaimaqui@gmail.com</correu>
+            <cp>08251</cp>
+            <esplai_id>maqui</esplai_id>
+            <height>350</height>
+            <latitude>41.790092</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/maqui-1383908953-thumb.jpg</logotip>
+            <longitude>1.825829</longitude>
+            <nom>Maqui</nom>
+            <poblacio>CASTELLNOU DE BAGES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel>695246464</tel>
+            <web>https://www.facebook.com/esplaimaqui.castellnou?fr</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Prat de la Riba 93</address>
+            <barri>morera</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplaimassagran@gmail.com</correu>
+            <cp>08915</cp>
+            <esplai_id>massagran</esplai_id>
+            <height>350</height>
+            <latitude>41.462227</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/massagran-1265123784-thumb.jpg</logotip>
+            <longitude>2.24761</longitude>
+            <nom>Massagran</nom>
+            <poblacio>BADALONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>4</sector>
+            <tel>933956738</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Gran de Gràcia 190-192</address>
+            <barri>Gràcia</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>secretariamatinadaportics@gmail.com</correu>
+            <cp>08012</cp>
+            <esplai_id>matinadaportics</esplai_id>
+            <height>350</height>
+            <latitude>41.404022</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/matinadaportics-1291299980-thumb.jpg</logotip>
+            <longitude>2.1529608</longitude>
+            <nom>Matinada Portics</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel />
+            <web>http://esplaimatinadaportics.wordpress.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Salelles s/n</address>
+            <barri />
+            <comarca>BAGES</comarca>
+            <correu>esplai.merlot@gmail.com</correu>
+            <cp>08253</cp>
+            <esplai_id>merlot</esplai_id>
+            <height>350</height>
+            <latitude>41.70185</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/merlot-1396965285-thumb.jpg</logotip>
+            <longitude>1.786725</longitude>
+            <nom>Merlot</nom>
+            <poblacio>SANT SALVADOR DE GUARDIOLA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel />
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>camí Vell de Santpedor 36-38</address>
+            <barri>La Parada</barri>
+            <comarca>Bages</comarca>
+            <correu>gjieminuatx@gmail.com</correu>
+            <cp>08243</cp>
+            <esplai_id>minuatx</esplai_id>
+            <height>350</height>
+            <latitude>41.7374</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/nofoto-thumb.jpg</logotip>
+            <longitude>1.83546</longitude>
+            <nom>Minuatx</nom>
+            <poblacio>Manresa</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>1</sector>
+            <tel>626834160</tel>
+            <web>http://gjieminuatx.blogspot.com.es/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Jaume Piquet 23</address>
+            <barri>Sarrià</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>movidesarria@gmail.com</correu>
+            <cp>08017</cp>
+            <esplai_id>movidesarria</esplai_id>
+            <height>350</height>
+            <latitude>41.39827</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/movidesarria-1265123598-thumb.jpg</logotip>
+            <longitude>2.1245656</longitude>
+            <nom>Movi de Sarrià</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel />
+            <web>www.movidesarria.cat</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ MONTBLANC, 20</address>
+            <barri>Poble Nou</barri>
+            <comarca>ALT PENEDÈS</comarca>
+            <correu>esplaimiv@gmail.com</correu>
+            <cp>08720</cp>
+            <esplai_id>miv</esplai_id>
+            <height>350</height>
+            <latitude>41.340233</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/miv-1265123546-thumb.jpg</logotip>
+            <longitude>1.6955329</longitude>
+            <nom>Moviment Infantil de Vilafranca (MIV)</nom>
+            <poblacio>VILAFRANCA DEL PENEDES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>8</sector>
+            <tel>938901363</tel>
+            <web>www.miv.cat</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ DOCTOR TRUETA, 5</address>
+            <barri>Papiol</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>esplai.pamtu@gmail.com</correu>
+            <cp>08754</cp>
+            <esplai_id>pamtu</esplai_id>
+            <height>350</height>
+            <latitude>41.435986</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/pamtu-1324850278-thumb.jpg</logotip>
+            <longitude>2.00769</longitude>
+            <nom>Pa amb tomàquet</nom>
+            <poblacio>PAPIOL, EL</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>610870066</tel>
+            <web>https://esplaipamtu.wordpress.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Carrer Caceres, 16 baix</address>
+            <barri>Cirera</barri>
+            <comarca>MARESME</comarca>
+            <correu>pampayuga@gmail.com</correu>
+            <cp>08304</cp>
+            <esplai_id>pampayuga</esplai_id>
+            <height>350</height>
+            <latitude>41.549976</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/pampayuga-1347978057-thumb.jpg</logotip>
+            <longitude>2.432989</longitude>
+            <nom>Pampayuga</nom>
+            <poblacio>MATARO</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>6</sector>
+            <tel>937588209</tel>
+            <web>http://pampayuga.blogspot.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Sant Pere 5</address>
+            <barri>Nucli antic de Llagostera</barri>
+            <comarca>GIRONA</comarca>
+            <correu>esplai.papustisores@gmail.com</correu>
+            <cp>17240</cp>
+            <esplai_id>paputisores</esplai_id>
+            <height>350</height>
+            <latitude>41.828857</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/paputisores-1265123363-thumb.jpg</logotip>
+            <longitude>2.89232</longitude>
+            <nom>Papu-Tisores</nom>
+            <poblacio>LLAGOSTERA</poblacio>
+            <provincia>GIRONA</provincia>
+            <sector>5</sector>
+            <tel>972832300</tel>
+            <web>www.paputisores.blogspot.com.es/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Escoles Velles S/N</address>
+            <barri>MMM</barri>
+            <comarca>BERGUEDÀ</comarca>
+            <correu>penyesaltes@hotmail.com</correu>
+            <cp>08694</cp>
+            <esplai_id>penyesaltes</esplai_id>
+            <height>350</height>
+            <latitude>42.233444</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/penyesaltes-1321897523-thumb.jpg</logotip>
+            <longitude>1.87911</longitude>
+            <nom>Penyes Altes</nom>
+            <poblacio>GUARDIOLA DE BERGUEDA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel>958749526</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Avinguda Catalunya 39</address>
+            <barri>La Palma de Cervelló</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>petikipeti.esplai@gmail.com</correu>
+            <cp>08756</cp>
+            <esplai_id>petiquipeti</esplai_id>
+            <height>350</height>
+            <latitude>41.412228</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/petiquipeti-1265123226-thumb.jpg</logotip>
+            <longitude>1.96912</longitude>
+            <nom>Peti ki peti</nom>
+            <poblacio>PALMA DE CERVELLO, LA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>646446896</tel>
+            <web>http://petikipeti.blogspot.com.es/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Carrer d'Anselm Clavé, 17</address>
+            <barri>Centre</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplaipicaroca@gmail.com</correu>
+            <cp>08172</cp>
+            <esplai_id>picaroca</esplai_id>
+            <height>350</height>
+            <latitude>41.4717</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/picaroca-1265123194-thumb.jpg</logotip>
+            <longitude>2.08056</longitude>
+            <nom>Pica Roca</nom>
+            <poblacio>SANT CUGAT DEL VALLES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>936452232</tel>
+            <web>www.esplaipicaroca.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>c/Arenys de mar, s/n  (xamfrà c/ Sabadell)</address>
+            <barri>Pla del Bon Aire</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplaibonaire@gmail.com</correu>
+            <cp>08225</cp>
+            <esplai_id>plabonaire</esplai_id>
+            <height>350</height>
+            <latitude>41.58133</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/plabonaire-1350339411-thumb.jpg</logotip>
+            <longitude>2.0174932</longitude>
+            <nom>Pla de Bonaire</nom>
+            <poblacio>TERRASSA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>681608336</tel>
+            <web>http://esplaibonaire.cat</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Carrer Sant Josep, 20</address>
+            <barri />
+            <comarca />
+            <correu>joventutpuigcastellar@hotmail.com</correu>
+            <cp>08922</cp>
+            <esplai_id>puigcastellar</esplai_id>
+            <height>350</height>
+            <latitude>41.450474</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/puigcastellar-1290968935-thumb.jpg</logotip>
+            <longitude>2.21063</longitude>
+            <nom>Puigcastellar</nom>
+            <poblacio>SANT COLOMA DE GRAMENET</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>4</sector>
+            <tel>627039800</tel>
+            <web>www.grupinfantilcep.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Pl. 19 d'abril s/n</address>
+            <barri>-</barri>
+            <comarca>BAGES</comarca>
+            <correu>roquesalbes@gmail.com</correu>
+            <cp>08650</cp>
+            <esplai_id>roquesalbes</esplai_id>
+            <height>350</height>
+            <latitude>41.823597</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/roquesalbes-1263895357-thumb.jpg</logotip>
+            <longitude>1.8946213</longitude>
+            <nom>Roques Albes</nom>
+            <poblacio>SALLENT</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel>626737567</tel>
+            <web>http://www.roquesalbes.cat</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Camí de la serra granada, s/n</address>
+            <barri>-</barri>
+            <comarca>Vallès Oriental</comarca>
+            <correu>esplaiers@gmail.com</correu>
+            <cp>08187</cp>
+            <esplai_id>santaeulalia</esplai_id>
+            <height>350</height>
+            <latitude>41.640373</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/nofoto-thumb.jpg</logotip>
+            <longitude>2.2229846</longitude>
+            <nom>Santa Eulàlia</nom>
+            <poblacio>Santa Eulàlia de Ronçana</poblacio>
+            <provincia>Barcelona</provincia>
+            <sector>10</sector>
+            <tel>639044258</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Carrer de Sant Bartomeu, 11</address>
+            <barri>Sant Cugat Centre</barri>
+            <comarca>VALLÈS OCCIDENTAL</comarca>
+            <correu>esplaisarau@gmail.com</correu>
+            <cp>08172</cp>
+            <esplai_id>sarau</esplai_id>
+            <height>350</height>
+            <latitude>41.470806</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/sarau-1390327228-thumb.jpg</logotip>
+            <longitude>2.0843554</longitude>
+            <nom>Sarau</nom>
+            <poblacio>SANT CUGAT DEL VALLÈS</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel>936745396</tel>
+            <web>www.cmsc.cat</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ CLOT, 72, 1r</address>
+            <barri>El Clot</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplaiscvclot@gmail.com</correu>
+            <cp>08018</cp>
+            <esplai_id>scvclot</esplai_id>
+            <height>350</height>
+            <latitude>41.40815</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/scvclot-1342438615-thumb.jpg</logotip>
+            <longitude>2.18848</longitude>
+            <nom>SCV El Clot</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>932319580</tel>
+            <web>www.scvelclot.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Ramón Victori, 10</address>
+            <barri />
+            <comarca>OSONA</comarca>
+            <correu>serrallonga@esplac.cat</correu>
+            <cp>08504</cp>
+            <esplai_id>serrallonga</esplai_id>
+            <height>350</height>
+            <latitude>41.92339</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/serrallonga-1277220330-thumb.jpg</logotip>
+            <longitude>2.32544</longitude>
+            <nom>Serrallonga</nom>
+            <poblacio>SANT JULIA DE VILATORTA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>7</sector>
+            <tel />
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>palmàs </address>
+            <barri>Vila vella</barri>
+            <comarca>RIPOLLÈS</comarca>
+            <correu>grupesplaisomnis@gmail.com</correu>
+            <cp>17860</cp>
+            <esplai_id>somnis</esplai_id>
+            <height>350</height>
+            <latitude>42.23413</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/somnis-1357660354-thumb.jpg</logotip>
+            <longitude>2.2863069</longitude>
+            <nom>Somnis</nom>
+            <poblacio>SANT JOAN DE LES ABADESSES</poblacio>
+            <provincia>GIRONA</provincia>
+            <sector>7</sector>
+            <tel>659651402</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Passeig del centenari s/n</address>
+            <barri />
+            <comarca>VALLÈS ORIENTAL</comarca>
+            <correu>esplaiterralleure@gmail.com</correu>
+            <cp>08410</cp>
+            <esplai_id>terradelleure</esplai_id>
+            <height>350</height>
+            <latitude>41.553356</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/terradelleure-1428658685-thumb.jpg</logotip>
+            <longitude>2.288906</longitude>
+            <nom>Terra de Lleure</nom>
+            <poblacio>VILANOVA DEL VALLES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>10</sector>
+            <tel />
+            <web>esplaiterralleure.blogspot.com.es</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>pl. Salvador Riera, 2</address>
+            <barri>Guinardó</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplai.torxa@gmail.com</correu>
+            <cp>08041</cp>
+            <esplai_id>torxa</esplai_id>
+            <height>350</height>
+            <latitude>41.418114</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/torxa-1387279188-thumb.jpg</logotip>
+            <longitude>2.174499</longitude>
+            <nom>Torxa</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>-</tel>
+            <web>http://esplaitorxa.wordpress.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>AVINGUDA MISTRAL, 30 BXS</address>
+            <barri>Sant Antoni</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>totikap@gmail.com</correu>
+            <cp>08015</cp>
+            <esplai_id>totikap</esplai_id>
+            <height>350</height>
+            <latitude>41.376953</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/totikap-1264084868-thumb.jpg</logotip>
+            <longitude>2.1570702</longitude>
+            <nom>Totikap</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>934239354</tel>
+            <web>www.totikap.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Av. Montserrat, núm. 14 semisoterrani B</address>
+            <barri />
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>esplaitrapella@gmail.com</correu>
+            <cp>08635</cp>
+            <esplai_id>Trapella</esplai_id>
+            <height>350</height>
+            <latitude>41.49506</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/nofoto-thumb.jpg</logotip>
+            <longitude>1.8724346</longitude>
+            <nom>Trapella</nom>
+            <poblacio>SANT ESTEVE SESROVIRES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>937714884</tel>
+            <web />
+            <width>500</width>
+        </element>
+        <element>
+            <address>Grup de Vivendes Pare Ignasi Puig s/n</address>
+            <barri>el xup (Pare Ignasi Puig)</barri>
+            <comarca>BAGES</comarca>
+            <correu>esplai3pins@gmail.com</correu>
+            <cp>08241</cp>
+            <esplai_id>trespins</esplai_id>
+            <height>350</height>
+            <latitude>41.713005</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/trespins-1354795577-thumb.jpg</logotip>
+            <longitude>1.8063338</longitude>
+            <nom>Tres Pins</nom>
+            <poblacio>MANRESA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel>685611766</tel>
+            <web>esplai3pins.wix.com/esplai3pins</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>c/Dàlia 14</address>
+            <barri>Sants-Montjuïc</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplaiturons@gmail.com</correu>
+            <cp>08004</cp>
+            <esplai_id>turons</esplai_id>
+            <height>350</height>
+            <latitude>41.37081</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/turons-1291300016-thumb.jpg</logotip>
+            <longitude>2.1462</longitude>
+            <nom>Turons</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>617140507</tel>
+            <web>http://esplaiturons.blogspot.com.es/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Rambla Prim, 217</address>
+            <barri>Sant Martí de Provençals</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>xiroi.esplai@gmail.com</correu>
+            <cp>08020</cp>
+            <esplai_id>vernedaxiroi</esplai_id>
+            <height>350</height>
+            <latitude>41.417233</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/vernedaxiroi-1367853881-thumb.jpg</logotip>
+            <longitude>2.1943629</longitude>
+            <nom>Verneda-Xiroi</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel>605619653</tel>
+            <web>Esplai Verneda-Xiroi (facebook)</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Verge de l'Alba 5-7</address>
+            <barri>Vic-Remei</barri>
+            <comarca>BAGES</comarca>
+            <correu>esplai.vicremei@gmail.com</correu>
+            <cp>08241</cp>
+            <esplai_id>vicremei</esplai_id>
+            <height>350</height>
+            <latitude>41.726875</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/vicremei-1384205159-thumb.jpg</logotip>
+            <longitude>1.82887</longitude>
+            <nom>Vic Remei</nom>
+            <poblacio>MANRESA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel />
+            <web>http://esplaivicremei.wordpress.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Plaça Lluís Companys s/n Mercat Centre 3ª Planta</address>
+            <barri>Centre</barri>
+            <comarca>BAIX LLOBREGAT</comarca>
+            <correu>esplaivolivol@gmail.com</correu>
+            <cp>08940</cp>
+            <esplai_id>volivol</esplai_id>
+            <height>350</height>
+            <latitude>41.355614</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/volivol-1316082326-thumb.jpg</logotip>
+            <longitude>2.07043</longitude>
+            <nom>Vol i Vol</nom>
+            <poblacio>CORNELLA DE LLOBREGAT</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>2</sector>
+            <tel>933779766</tel>
+            <web>http://www.esplaivolivol.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/Pedrell 67-69</address>
+            <barri>Font d'en fargues</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplaixango@gmail.com</correu>
+            <cp>08032</cp>
+            <esplai_id>xango</esplai_id>
+            <height>350</height>
+            <latitude>41.424416</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/xango-1264591275-thumb.png</logotip>
+            <longitude>2.16542</longitude>
+            <nom>Xango</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel />
+            <web>www.esplaixango.com</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ ALI-BEI 120 BAIXOS</address>
+            <barri>Fort Pienc</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>esplaixiroc@gmail.com</correu>
+            <cp>08013</cp>
+            <esplai_id>xiroc</esplai_id>
+            <height>350</height>
+            <latitude>41.39715</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/xiroc-1342438842-thumb.jpg</logotip>
+            <longitude>2.1857536</longitude>
+            <nom>Xiroc</nom>
+            <poblacio>BARCELONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>3</sector>
+            <tel />
+            <web>https://esplaixiroc.wordpress.com/</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Pg. Bisbe Comelles, 123</address>
+            <barri />
+            <comarca>BERGUEDÀ</comarca>
+            <correu>xiruquesdelrocdelamel@gmail.com</correu>
+            <cp>08693</cp>
+            <esplai_id>xiruquesmel</esplai_id>
+            <height>350</height>
+            <latitude>42.01284</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/xiruquesmel-1413025795-thumb.jpg</logotip>
+            <longitude>1.8443727</longitude>
+            <nom>Xiruques del Roc de la Mel</nom>
+            <poblacio>CASSERRES</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>1</sector>
+            <tel />
+            <web>xiruquesdelrocdelamel.blogspot.com.es</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>C/ Sant Anastasi nº2</address>
+            <barri>centre</barri>
+            <comarca>BARCELONÈS</comarca>
+            <correu>xirusplai@gmail.com</correu>
+            <cp>08911</cp>
+            <esplai_id>xirusplai</esplai_id>
+            <height>350</height>
+            <latitude>41.450237</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/xirusplai-1307038237-thumb.jpg</logotip>
+            <longitude>2.24738</longitude>
+            <nom>Xirusplai</nom>
+            <poblacio>BADALONA</poblacio>
+            <provincia>BARCELONA</provincia>
+            <sector>4</sector>
+            <tel>933844556</tel>
+            <web>www.xirusplai.org</web>
+            <width>500</width>
+        </element>
+        <element>
+            <address>Carrer de la Pau 12-14</address>
+            <barri>Plaça Nova i Barceloneta</barri>
+            <comarca>BAIX PENEDÈS</comarca>
+            <correu>ezigzag@hotmail.com</correu>
+            <cp>43700</cp>
+            <esplai_id>zigzag</esplai_id>
+            <height>350</height>
+            <latitude>41.223003</latitude>
+            <logotip>http://assac.esplac.cat/imatges/upload_logos_esplai/zigzag-1264084463-thumb.jpg</logotip>
+            <longitude>1.5346956</longitude>
+            <nom>Zig-Zag</nom>
+            <poblacio>VENDRELL, EL</poblacio>
+            <provincia>TARRAGONA</provincia>
+            <sector>8</sector>
+            <tel>689029063</tel>
+            <web>http://esplaizigzagdelvendrell.wordpress.com/</web>
+            <width>500</width>
+        </element>
+    </centres>
+</root>

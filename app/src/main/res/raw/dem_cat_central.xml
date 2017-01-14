@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder>
+    <Placemark>
+        <name>AEiG Alexandre de Riquer</name>
+        <description><![CDATA[Carretera Llarga, 11<br>08280 Calaf<br>Demarcació Catalunya Central]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.510666,41.731834,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Ali-Bei</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/RkzV62gQ4PMkX1wd-i3HP-Oq_NNbBQMo-cmW0g8lwY7Ls8VQmlKxJUruFZFHkkKjnFR5iEQFQRJrBxEfLE2Ki22xyypK9ovO7MOo9LyT6P0" height="200" width="auto" /><br><br>Plaça de la Sagrada Família, s/n<br>08670 Navàs<br>Demarcació Catalunya Central<br>alibei@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh5.googleusercontent.com/proxy/RkzV62gQ4PMkX1wd-i3HP-Oq_NNbBQMo-cmW0g8lwY7Ls8VQmlKxJUruFZFHkkKjnFR5iEQFQRJrBxEfLE2Ki22xyypK9ovO7MOo9LyT6P0</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.880072,41.898979,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Amadeu Oller</name>
+        <description><![CDATA[Plaça Major, 3<br>08180 Moià<br>Demarcació Catalunya Central<br>amadeuoller@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.098512,41.812038,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Antoni Gaudí</name>
+        <description><![CDATA[Carrer de Sant Cristòfol, 44<br>08243 Manresa<br>Demarcació Catalunya Central<br>antonigaudi@escoltesiguies.cat<br>http://www.antonigaudi.cat/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.838266,41.727524,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Caldàrius</name>
+        <description><![CDATA[Crta. Sabadell a Prats Km. 38.5<br>08275 , Calders<br>Demarcació Catalunya Central<br>caldarius@escoltaiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.99214,41.789448,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Cardenal Lluch</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/TQe7vJVwtW9cRfq6TfFICqxX3ojfXSxBk8FeLfNHRp_4qdD9M1Hpaq3AJnGbvC4bsoPBkIx9Bean0OOC5GIKF1fo6I5cIJ0wiTsZ2ocTzcJfuYh_b5o" height="200" width="auto" /><br><br>Carrer de Vallfonollosa, 11, prpal<br>08241 Manresa<br>Demarcació Catalunya Central<br>cardenallluch@escoltesiguies.cat<br>http://www.cardenallluch.cat/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh3.googleusercontent.com/proxy/TQe7vJVwtW9cRfq6TfFICqxX3ojfXSxBk8FeLfNHRp_4qdD9M1Hpaq3AJnGbvC4bsoPBkIx9Bean0OOC5GIKF1fo6I5cIJ0wiTsZ2ocTzcJfuYh_b5o</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.826347,41.722416,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Cavall Bernat</name>
+        <description><![CDATA[Apartat de Correus 399<br>08243 Manresa<br>Demarcació Catalunya Central<br>cavallbernat@escoltesiguies.cat<br>http://www.aeigcavallbernat.cat/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.835354,41.739418,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Guillem de Balsareny</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/n7ASEed3p_DZGWeb5Fvyn3zruXCxw9hdIuQXNW4bCVFxNsXsPXMyxHtxh4csZzFX6-mA0h4MGKsH0CQX-LnIFoj9bmwVHpPFCLg661urDabZd9Epp8gRuBZk" height="200" width="auto" /><br><br>Plaça de Roc García. 4-5<br>08660 Balsareny<br>Demarcació Catalunya Central<br>guillemdebalsareny@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh5.googleusercontent.com/proxy/n7ASEed3p_DZGWeb5Fvyn3zruXCxw9hdIuQXNW4bCVFxNsXsPXMyxHtxh4csZzFX6-mA0h4MGKsH0CQX-LnIFoj9bmwVHpPFCLg661urDabZd9Epp8gRuBZk</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.877445,41.863113,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Hug Folc</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/M5mQBSYDHmcDHfoZyI2D1jr_VE0kKEywONkrYTxpC1HJt8QGPktDc-tS8Zy8EDOT_tRNM5-mLdQoPh4LXq6FkU2rKYFuOyAMfC_h6YItXDym" height="200" width="auto" /><br><br>Carrer de les Flors, 2<br>08261 Cardona<br>Demarcació Catalunya Central<br>hugfolc@escoltesiguies.cat<br>http://www.aehugfolc.entitatscardona.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh6.googleusercontent.com/proxy/M5mQBSYDHmcDHfoZyI2D1jr_VE0kKEywONkrYTxpC1HJt8QGPktDc-tS8Zy8EDOT_tRNM5-mLdQoPh4LXq6FkU2rKYFuOyAMfC_h6YItXDym</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.680651,41.913872,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Jaume Caresmar-MªAntònia Salvà</name>
+        <description><![CDATA[Carrer de la Caritat, 4<br>08700 Igualada<br>Demarcació Catalunya Central<br>jaumecaresmariantoniasalva@escoltesiguies.cat<br>http://www.cauigualada.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.619944,41.577579,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Joan Ros</name>
+        <description><![CDATA[Carrer de Sant Antoni Maria Claret, 14<br>08260 Súria<br>Demarcació Catalunya Central<br>joanros@escoltesiguies.cat<br>http://elcaudesuria.blogspot.com.es/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.751237,41.8321,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Josep Masclans</name>
+        <description><![CDATA[Carrer Major, 59<br>08785 Vallbona d'Anoia<br>Demarcació Catalunya Central<br>josepmasclans@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.707442,41.518909,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG La Salut</name>
+        <description><![CDATA[Carrer de la Salut, 27<br>08240 Manresa-casal de Vilabordis<br>Demarcació Catalunya Central<br>lasalut@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.8635470000000003,41.724934,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Lacetània</name>
+        <description><![CDATA[Carrer d'Oleguer i Miró, s/n<br>08243 Manresa<br>Demarcació Catalunya Central<br>lacetania@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.83696,41.718643,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG La Bestorre</name>
+        <description><![CDATA[Pujada del Pont 3<br>08691 Monistrol de Montserrat<br>Demarcació Catalunya Central<br>labestorre@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.843868,41.611389,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Movi de Tous</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/KbybHjgJWBvo6pUZ6oO1mViom761xxXLCVOtKypaKdbA6mFZRbPznxyJIs72zm2kHysJOE311lQfL2CvRRDyMqjpKDiSIfXme9YgF9I1w8GySQ" height="200" width="auto" /><br><br>Carrer Industria, 4<br>08712 Sant Martí de Tous<br>Demarcació de la Catalunya Central<br>movidetous@escoltesiguies.cat<br>http://movitous.wix.com/movitous]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh4.googleusercontent.com/proxy/KbybHjgJWBvo6pUZ6oO1mViom761xxXLCVOtKypaKdbA6mFZRbPznxyJIs72zm2kHysJOE311lQfL2CvRRDyMqjpKDiSIfXme9YgF9I1w8GySQ</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.523718,41.561337,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Santa Maria de Queralt-Geralda Portella</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/0Wva4BwjVV_IDwVd9U-xhn5_FQxiSvUEn-BUOFEnwAngFtZoc32wv0QmDv4H4YZo1YsHwxQYgPWl-8QIkThqgSSddzlnT9pYZ19kEAOBynKXk7vO4F-jW0YHrxAHMxne8RhfTrgaQIEiKKA" height="200" width="auto" /><br><br>Castellar del riu, 1<br>08600 Berga<br>Demarcació Catalunya Central<br>mariadequeralt@escoltesiguies.cat<br>http://escoltesberga.wordpress.com/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh5.googleusercontent.com/proxy/0Wva4BwjVV_IDwVd9U-xhn5_FQxiSvUEn-BUOFEnwAngFtZoc32wv0QmDv4H4YZo1YsHwxQYgPWl-8QIkThqgSSddzlnT9pYZ19kEAOBynKXk7vO4F-jW0YHrxAHMxne8RhfTrgaQIEiKKA</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.8462590000000003,42.104843,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Pare Claret (solsona)</name>
+        <description><![CDATA[Pg. Pare Claret (casal de Cultura)  <br>25280 Solsona<br>Demarcació Catalunya Central<br>pareclaretsolsona@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.514177,41.994202,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEIG Sebastià Montraveta</name>
+        <description><![CDATA[Plaça Església, 3<br>08680 Gironella<br>Demarcació Catalunya Central<br>sebastiamontraveta@escoltesiguies.cat<br>http://aeigsebastiamontraveta.cat/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.905361,42.057106,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Vall de Lord</name>
+        <description><![CDATA[Pl. de L' Església, s/n<br>25282 Sant Llorenç de Morunys<br>Demarcació Catalunya Centralvalldelord@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.591223,42.137539,0.0</coordinates>
+        </Point>
+    </Placemark>
+</Folder>

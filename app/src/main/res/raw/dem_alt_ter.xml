@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder>
+    <Placemark>
+        <name>AEiG Arrels</name>
+        <description><![CDATA[Carrer d'Enric Delaris, 68<br>08560 Manlleu<br>Demarcació Alt Ter<br>arrelsmanlleu@escoltesiguies.cat<br>http://www.aearrels.org]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.282957,41.997616,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Comte Jofre-Verge de Rocaprevera</name>
+        <description><![CDATA[Carrer dels Artesans, 3, 08570 Torelló<br>Demarcació Alt Ter<br>comtejofrevergerocaprevera@escoltesiguies.cat<br>http://www.escoltestorello.net]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.255846,42.049736,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Els Vàndals</name>
+        <description><![CDATA[Carrer Puigmal, 4<br>17530 Campdevànol<br>Demarcació Alt Ter<br>vandals@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.169015,42.224457,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Guillem de Montrodon</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/TS4N5bEJKY2wlKl2YIwJ3pWvi099o7Wn_uYB9e_-Lc2AsKEkP_PEGZBaZQGNQDS7SPkBgdQAOZFz2jojJqdKXuB1Xo1WqojtdJNueOmzXTLDkdX6CE1VTVYw" height="200" width="auto" /><br><br>Plaça de Santa Elisabet, 3-4<br>08500 Vic<br>Demarcació Alt Ter<br>guillemdemontrodon@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh3.googleusercontent.com/proxy/TS4N5bEJKY2wlKl2YIwJ3pWvi099o7Wn_uYB9e_-Lc2AsKEkP_PEGZBaZQGNQDS7SPkBgdQAOZFz2jojJqdKXuB1Xo1WqojtdJNueOmzXTLDkdX6CE1VTVYw</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.256279,41.927872,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Mestral</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/0nQ7ACFS9QSIoajUL_8U6MmPaNlEUx9zm2WjMLZBOb3_4iOYl_6CmLifTYousyNTe6AIkHDRHqKN6AuP5BUBb9thTH7QrJVx9oX7laaa7Bs" height="200" width="auto" /><br><br>Calle Doctor Terricabres, 1<br>08572 Sant Pere de Torelló<br>Demarcació Alt Ter<br>mestral@escoltesiguies.cat<br>http://causantpere.blogspot.com.es/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh5.googleusercontent.com/proxy/0nQ7ACFS9QSIoajUL_8U6MmPaNlEUx9zm2WjMLZBOb3_4iOYl_6CmLifTYousyNTe6AIkHDRHqKN6AuP5BUBb9thTH7QrJVx9oX7laaa7Bs</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.297453,42.075279,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Rocaguinarda</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/hRRhJD7IkmXAG6xy2uDVYS-qplkOFvqpJjG4u2mmCXbLgDArtI6AMKnQ5cQP11aI_2HNm9e8jjsEGrBYLJZcg8qQHKiVFmEtWoXpLjkxU8V6tLmr3w" height="200" width="auto" /><br><br>Mas Can Just, s/n, Carretera de Viladrau<br>08552 Taradell<br>Demarcació Alt Ter<br>rocaguinarda@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh3.googleusercontent.com/proxy/hRRhJD7IkmXAG6xy2uDVYS-qplkOFvqpJjG4u2mmCXbLgDArtI6AMKnQ5cQP11aI_2HNm9e8jjsEGrBYLJZcg8qQHKiVFmEtWoXpLjkxU8V6tLmr3w</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.290507,41.878048,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Tsunami</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ArtHyDpHTGiAbNApGFy0tEQyWPKqippiCxsCPmxLPvEfRBwQBQr_S91IK68H3FqVW0H_G9mmHD-USVF1yUfEucQNmCjyDD-XF0HO5prnhu6R2KqMeSNdYI-H6dHM1fjY" height="200" width="auto" /><br><br>Carrer de Sant Francesc, 56, la calla<br>08500 Vic<br>Demarcació de l'Alt Ter<br>tsunami@escoltesiguies.cat<br>http://www.aeigtsunami.org/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh4.googleusercontent.com/proxy/ArtHyDpHTGiAbNApGFy0tEQyWPKqippiCxsCPmxLPvEfRBwQBQr_S91IK68H3FqVW0H_G9mmHD-USVF1yUfEucQNmCjyDD-XF0HO5prnhu6R2KqMeSNdYI-H6dHM1fjY</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.257156,41.925453,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG CE Jove</name>
+        <description><![CDATA[Antigues Escoles de Montmany - Carretera Viladrau, s/n. <br>08553 Seva<br>Demarcació de l'Alt Ter<br>cejove@escoltesiguies.cat <br>http://cejove.blogspot.com.es/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.28397,41.836205,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Collformic</name>
+        <description><![CDATA[C/ Tagament 1 bis - Centre Cívic de Santa Anna<br>08500 Vic<br>Demarcació Alt Ter<br>collformic@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.247494,41.920545,0.0</coordinates>
+        </Point>
+    </Placemark>
+</Folder>

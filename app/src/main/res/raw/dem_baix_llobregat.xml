@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder>
+    <Placemark>
+        <name>AEiG Garbí</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/xk8ZKgVdJNG3BrWYjX4f8noktGfLjMX2TD7ryk3V-TXxnxlyVelgc-HPHXxvaHu34GJGOB9-BkJtGJWnj7ePxpgEp5OuPmyRYGwstF5C" height="200" width="auto" /><br><br>Grup Sant Jordi, 8, baixos<br>08840 Viladecans<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>garbi @escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh5.googleusercontent.com/proxy/xk8ZKgVdJNG3BrWYjX4f8noktGfLjMX2TD7ryk3V-TXxnxlyVelgc-HPHXxvaHu34GJGOB9-BkJtGJWnj7ePxpgEp5OuPmyRYGwstF5C</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.023044,41.31459,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Anton Vilà</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/C0sodKjpsdrZ4-pfxWMF_F92s4Z_1_DVKZoCILNptSbPrNGw8s0fb4wI_9KBZ6XzUuAeHOu2S_-tufWyMEC-TFQIs_imiqqhO5HbRFezEhngMRY" height="200" width="auto" /><br><br>Carrer de Cadaqués, 7 1r pis<br>08820 El Prat de Llobregat<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>antonvila@escoltesiguies.cat<br>http://www.antonvila.org/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh5.googleusercontent.com/proxy/C0sodKjpsdrZ4-pfxWMF_F92s4Z_1_DVKZoCILNptSbPrNGw8s0fb4wI_9KBZ6XzUuAeHOu2S_-tufWyMEC-TFQIs_imiqqhO5HbRFezEhngMRY</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.099572,41.324455,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Gratallops</name>
+        <description><![CDATA[Avinguda de Prat de la Riba, 10<br>08820 El Prat de Llobregat<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>gratallops@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.997373,41.42123,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Joan XXIII</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/695jJyRVxzVygl337z47yLXCLMifZq0zDQI5aqvjy_RywxXPyNSryWxD9VIrhmzjzGm4VJB9Xpx1BFUo416KNLtIpI0XNDKc6lOz0fXvqnN4ln0" height="200" width="auto" /><br><br>Plaça de l'Església, 1<br>08760 Martorell<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>joanXXIII@escoltesiguies.cat<br>http://www.caumartorell.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh6.googleusercontent.com/proxy/695jJyRVxzVygl337z47yLXCLMifZq0zDQI5aqvjy_RywxXPyNSryWxD9VIrhmzjzGm4VJB9Xpx1BFUo416KNLtIpI0XNDKc6lOz0fXvqnN4ln0</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.9277380000000002,41.474247,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Roc del Migdia</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ej8S4o6u0SsnX2X4B4Nux-23TGzk9ll_Ix718Us-dJ6vgBRIXRk3ljkWnUewbBKuJ9rKxjRVMrhe3l_qv89YNOrxB4RN5dOH-nzFaklUU1qwzL4" height="200" width="auto" /><br><br>C/Raval de Molins 36<br>08850 Gavà<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>rocdelmigdia@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh4.googleusercontent.com/proxy/ej8S4o6u0SsnX2X4B4Nux-23TGzk9ll_Ix718Us-dJ6vgBRIXRk3ljkWnUewbBKuJ9rKxjRVMrhe3l_qv89YNOrxB4RN5dOH-nzFaklUU1qwzL4</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.003155,41.303776,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Martin Luther King</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/c8B9ZcnW7fDeFtmM6TXxBfqnVcWlqQG41UVgEd20PvajiPwC6PSFVDfIIUesPTXKKXEPqd3N8KVlQxiDOUw9JitEQJYMucSVyxawLn19kVbHqAnVIAdAGvy7eg" height="200" width="auto" /><br><br>C/ Bonavista,111 bis <br>08960 Sant Just Desvern<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>lutherking@escoltesiguies.cat<br>http://www.aemlk.com/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh3.googleusercontent.com/proxy/c8B9ZcnW7fDeFtmM6TXxBfqnVcWlqQG41UVgEd20PvajiPwC6PSFVDfIIUesPTXKKXEPqd3N8KVlQxiDOUw9JitEQJYMucSVyxawLn19kVbHqAnVIAdAGvy7eg</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.076358,41.385567,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Nostra Dona de la Salut</name>
+        <description><![CDATA[Ptge.  Penedès s/n<br>08980 Sant Feliu de Llobregat<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>nostradonadelasalut@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.046025,41.380672,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Nostra Sra. del Vinyet</name>
+        <description><![CDATA[Avinguda de  Ronda, s/n<br>08870 Sitges<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>nostrasenyoravinyet@escolteiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.807501,41.24246200000001,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Pere II- Sta.M.de Foix</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/1iBDtdCN580poKn59aPYBZZZfyy_ZMlGMrZQTqepFmw0IsYc7Afrzh_VMdYUDW5OOvzfYa2NRQdEsI-QpMia2RKEVS6iNZqhb2nNCaLiEwc" height="200" width="auto" /><br><br>Carrer del Bisbe Morgades, 23, bis <br>08720 Vilafranca del Penedès<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>santamariadefoix@escoltesiguies.cat<br>https://webdelcau.wordpress.com/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh4.googleusercontent.com/proxy/1iBDtdCN580poKn59aPYBZZZfyy_ZMlGMrZQTqepFmw0IsYc7Afrzh_VMdYUDW5OOvzfYa2NRQdEsI-QpMia2RKEVS6iNZqhb2nNCaLiEwc</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.698415,41.342495,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Roc d'Oró</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/FrtL-GHEmIM6kAbLt_cKdvSM8xx-J0Kfi0G49M_Z0YUNBxpD9ZklHWhks_7w72ES0Hhvn3TmBmXFl28R-i0mtgyLemxr2vft0WrkU1vu6PMpQWMlq-Z3DPxMCGRrXT-A51Nnhe6vtLtXxzw-nlldlIg1E8GqxSdPzcEYakcfLg" height="200" width="auto" /><br><br>Carrer de Francesc Moragas, 14<br>08620 Sant Vicenç dels Horts<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>rocdoro@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh4.googleusercontent.com/proxy/FrtL-GHEmIM6kAbLt_cKdvSM8xx-J0Kfi0G49M_Z0YUNBxpD9ZklHWhks_7w72ES0Hhvn3TmBmXFl28R-i0mtgyLemxr2vft0WrkU1vu6PMpQWMlq-Z3DPxMCGRrXT-A51Nnhe6vtLtXxzw-nlldlIg1E8GqxSdPzcEYakcfLg</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>2.0108730000000006,41.393005,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Sant Bernat de Claravall</name>
+        <description><![CDATA[Plaça Nova s/n<br>08640 Olesa de Montserrat<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>santbernat@escoltesiguies.cat<br>http://cauolesa.wordpress.com/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.893544,41.545937,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Sant Joan</name>
+        <description><![CDATA[C/ Muntanya, 53<br>08840 Viladecans<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>santjoan@escoltesiguies.cat<br>http://causantjoan.wix.com/aeigsantjoan]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.01617,41.319637,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Sant Jordi</name>
+        <description><![CDATA[Carrer d'Angel Guimerà, 27-29<br>08950 Esplugues de Llobregat<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>santjordi@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.085698,41.377235,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Sant Ramon Nonat</name>
+        <description><![CDATA[Carrer Riereta, 4<br>08830 Sant Boi de Llobregat<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>santramonnonat@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.042396,41.346897,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Sant Sadurní</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ArtHyDpHTGiAbNApGFy0tEQyWPKqippiCxsCPmxLPvEfRBwQBQr_S91IK68H3FqVW0H_G9mmHD-USVF1yUfEucQNmCjyDD-XF0HO5prnhu6R2KqMeSNdYI-H6dHM1fjY" height="200" width="auto" /><br><br>Plaça del Doctor Salvans, 1<br>08770 Sant Sadurní d'Anoia<br>santsadurni@escoltesiguies.cat<br>Demarcació Baix Llobregat/ Garraf/ Alt Penedès<br>http://www.causantsadurni.org/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh4.googleusercontent.com/proxy/ArtHyDpHTGiAbNApGFy0tEQyWPKqippiCxsCPmxLPvEfRBwQBQr_S91IK68H3FqVW0H_G9mmHD-USVF1yUfEucQNmCjyDD-XF0HO5prnhu6R2KqMeSNdYI-H6dHM1fjY</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.796265,41.43655,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Conxita Busquets</name>
+        <description><![CDATA[Carrer de Santiago Russinyol 8bis<br>08820 El Prat de Llobregat<br>Demarcació Baix Llobregat/Garraf/Alt Penedès<br>conxitabusquets@escoltesiguies.cat<br>http://conxitabusquets.wix.com/aeig]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>2.09416,41.328011,0.0</coordinates>
+        </Point>
+    </Placemark>
+</Folder>

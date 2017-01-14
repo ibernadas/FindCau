@@ -30,7 +30,8 @@
 
         <activity
             android:name=".MapaCaus"
-            android:label="@string/title_activity_mapa_caus">
+            android:label="@string/title_activity_mapa_caus"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

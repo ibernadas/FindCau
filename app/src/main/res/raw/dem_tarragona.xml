@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder>
+    <Placemark>
+        <name>AEiG Ben Enllà</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/JBKhuo1pY_xqo3uX90oQ2DGEOZAA38nJdyYlH1JNxRjdh1bYff3zxXXgmRct4hwGbPtiEt-vkiv73wnAi9QyV0ezIWnC0UY4go_t3q8-oVygMA" height="200" width="auto" /><br><br>Plaça de la Pastoreta, 10<br>43202 Reus<br>Demarcació Tarragona<br>benenlla@escoltesiguies.cat<br><br>http://agrupamentescoltaiguiabenenlla.blogspot.com.es/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh4.googleusercontent.com/proxy/JBKhuo1pY_xqo3uX90oQ2DGEOZAA38nJdyYlH1JNxRjdh1bYff3zxXXgmRct4hwGbPtiEt-vkiv73wnAi9QyV0ezIWnC0UY4go_t3q8-oVygMA</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.105129,41.149975,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Bisbe Borràs</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/qw3WUQzFW9Q4Xh_-Nof07ZY1bEQ4BBTcFgQs9sLlSBIeZN4vOCiKMnGPxTCnK8hydsuKCfiiqdhLB-w6KXjb1pnMdBN5-v_FA5rZcyeD6We-4urJlw" height="200" width="auto" /><br><br>Carrer de la Font, 11 <br>43110, La Canonja<br>Demarcació Tarragona<br>bisbeborras@escoltesiguies.cat<br>http://www.aeigbisbeborras.blogspot.com.es/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh6.googleusercontent.com/proxy/qw3WUQzFW9Q4Xh_-Nof07ZY1bEQ4BBTcFgQs9sLlSBIeZN4vOCiKMnGPxTCnK8hydsuKCfiiqdhLB-w6KXjb1pnMdBN5-v_FA5rZcyeD6We-4urJlw</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.177971,41.123459,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Fent Camí</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/H5cAXmJ8TuaaenfZrkysJKEAvafVccyK0gHBVtls6Pw6zKukkm4XbgUcbdkUhDxQIKvvIxlQK2Z2Ei0P52D2yPYe3vJP4ZhfchDYYfGjKCMT8A" height="200" width="auto" /><br><br>Plaça del Pallol, 5<br>43003 Tarragona fentcami@escoltesiguies.cat<br>http://aegfentcami.cat/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh5.googleusercontent.com/proxy/H5cAXmJ8TuaaenfZrkysJKEAvafVccyK0gHBVtls6Pw6zKukkm4XbgUcbdkUhDxQIKvvIxlQK2Z2Ei0P52D2yPYe3vJP4ZhfchDYYfGjKCMT8A</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.255082,41.118023,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG GELSTO</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Cs1o62cfBkjkfMtTCL2zsoDAAAUYaNJYSoPvZLizrJVvVQX7nathpnEvyZbfDliQWo3wql-p812kBeKnUW7zzxol4r6O2ax4Nh_zLJe-UQ" height="200" width="auto" /><br><br>Urb. La granja, C/ Sant Benilde, 15 <br>43006 Torreforta<br>Demarcació Tarragona<br>gelsto@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh6.googleusercontent.com/proxy/Cs1o62cfBkjkfMtTCL2zsoDAAAUYaNJYSoPvZLizrJVvVQX7nathpnEvyZbfDliQWo3wql-p812kBeKnUW7zzxol4r6O2ax4Nh_zLJe-UQ</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.211701,41.119377,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Gent de Mar</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/pSardgTRDXf9OcKhR0hQaeEJn6tg4zPNhipW-JmjzshIWS7uDSdFsJ7sVOD5VDdGRZdUbg6o-pv83y-04rv-aKAtvSu8chLQHcAzDfOLVp1_" height="200" width="auto" /><br><br>Plaça de l'Esglèsia, s/n<br>43850 Cambrils<br>Demarcació Tarragona<br>gentdemar@escoltesiguies.cat<br>http://gentdemar.blogspot.com.es/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh6.googleusercontent.com/proxy/pSardgTRDXf9OcKhR0hQaeEJn6tg4zPNhipW-JmjzshIWS7uDSdFsJ7sVOD5VDdGRZdUbg6o-pv83y-04rv-aKAtvSu8chLQHcAzDfOLVp1_</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.051742,41.074181,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Ixent</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Z0jj4kjurjf740MmlLZKssZbLPGWPtkHNb9Op_Ys6dfr2nxasAMLsKJfFFCJxPl3IqYwhqBUH7XNm4gCpG-Hc0dVN2iFmIaj-0oVQIgV" height="200" width="auto" /><br><br>Avinguda dels Països Catalans<br>43007 Tarragona <br>Demarcació Tarragona<br>ixent@escoltesiguies.cat<br>http://www.aeg-ixent.org/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh6.googleusercontent.com/proxy/Z0jj4kjurjf740MmlLZKssZbLPGWPtkHNb9Op_Ys6dfr2nxasAMLsKJfFFCJxPl3IqYwhqBUH7XNm4gCpG-Hc0dVN2iFmIaj-0oVQIgV</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.245971,41.132553,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG L'Estornell</name>
+        <description><![CDATA[Carrer de les Sortetes, 50<br>43440 L'Espluga de Francolí<br>Demarcació Tarragona<br>lestornelll@escoltesiguies.cat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.100943,41.395309,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Mare de Déu de la Mercè</name>
+        <description><![CDATA[Plaça Catalunya<br>43400 Montblanc<br>Demarcació Tarragona marededeudelamerce@escoltesiguies.cat<br>http://www.montblancentitats.cat/caumontblanc]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.163766,41.37772,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG M. de Déu del Montsant-Verge del Cim</name>
+        <description><![CDATA[Avinguda de Sant Jordi, 23-25<br>43201 Reus<br>Demarcació Tarragona<br>montsantcim@escoltesiguies.cat<br>http://montsantcim.blogspot.com/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.109539,41.160831,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Mare de Déu de la Misericòrdia</name>
+        <description><![CDATA[Carrer de la Presó, 13<br>43201 Reus<br>Demarcació Tarragona<br>misericordia@escoltesiguies.cat<br>http://aegmisericordia.wix.com/aegmisericordia]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.110197,41.155117,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Verge de la Candela</name>
+        <description><![CDATA[Carrer de la baixada de l'Església, 1<br>43800 Valls<br>Demarcació Tarragona<br>vergedelacandela@escoltesiguies.cat<br>http://caudevalls.blogspot.com.es/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+            <coordinates>1.247179,41.283859,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AEiG Xaloc</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/-0wCWIaahA7NZalmGqoiZn_cxmMF1Dh-6reTNxxnJ4oMpFCZywB-zWQ1QZhqBF1vFxPXrNzPk3EdbtKrWJKNiCEkI24KSvhq9TTY1w6v" height="200" width="auto" /><br><br>Plaça de Prim, 8, 43001 Tarragona, xaloc@escoltesiguies.cat<br>http://aeigxaloc.org]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+            <Data name='gx_media_links'>
+                <value>https://lh4.googleusercontent.com/proxy/-0wCWIaahA7NZalmGqoiZn_cxmMF1Dh-6reTNxxnJ4oMpFCZywB-zWQ1QZhqBF1vFxPXrNzPk3EdbtKrWJKNiCEkI24KSvhq9TTY1w6v</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <coordinates>1.250698,41.113335,0.0</coordinates>
+        </Point>
+    </Placemark>
+</Folder>

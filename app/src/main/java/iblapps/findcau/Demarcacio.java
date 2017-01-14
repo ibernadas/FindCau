@@ -1,3 +1,6 @@
+package iblapps.findcau;
+
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -5,6 +8,6 @@ import java.util.List;
  */
 
 public class Demarcacio {
-    List<Cau> caus;
+    ArrayList<Cau> caus;
 
 }
