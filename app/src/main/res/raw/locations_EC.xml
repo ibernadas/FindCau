@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <markers>
+        <element>
+            <latitude>41.56283</latitude>
+            <longitude>0.524727</longitude>
+            <markername>small purple</markername>
+            <offset>0</offset>
+            <text>
+                &lt;h3&gt;AE Lo Mòtit&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ Dra. Castells, s/n&lt;/div&gt;
+                &lt;span class="locality"&gt;ALCARRÀS&lt;/span&gt;, &lt;span class="postal-code"&gt;25180&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.666916</latitude>
+            <longitude>0.555682</longitude>
+            <markername>small purple</markername>
+            <offset>1</offset>
+            <text>
+                &lt;h3&gt;AE Taciplà&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Avinguda del Parc 280&lt;/div&gt;
+                &lt;span class="locality"&gt;ALPICAT&lt;/span&gt;, &lt;span class="postal-code"&gt;25110&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.546</latitude>
+            <longitude>2.406143</longitude>
+            <markername>small purple</markername>
+            <offset>2</offset>
+            <text>
+                &lt;h3&gt;AE Calabrot d&amp;#039;Argent&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Avinguda Països Catalans, 6&lt;/div&gt;
+                &lt;span class="locality"&gt;ARGENTONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08310&lt;/span&gt;&lt;div class="country-name"&gt;Espanya&lt;/div&gt;
+                &lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.408306</latitude>
+            <longitude>2.172042</longitude>
+            <markername>small purple</markername>
+            <offset>3</offset>
+            <text>
+                &lt;h3&gt;AE Antoni Gaudí&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ Provença, 450, Bxs.&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08025&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.417183</latitude>
+            <longitude>2.162453</longitude>
+            <markername>small purple</markername>
+            <offset>4</offset>
+            <text>
+                &lt;h3&gt;AE Can Baró&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ Josep Serrano, 59-71&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08024&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.384888</latitude>
+            <longitude>2.127705</longitude>
+            <markername>small purple</markername>
+            <offset>5</offset>
+            <text>
+                &lt;h3&gt;AE El Pi de Les Corts&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ Dolors Masferrer, 33&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08028&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.388866</latitude>
+            <longitude>2.177642</longitude>
+            <markername>small purple</markername>
+            <offset>6</offset>
+            <text>
+                &lt;h3&gt;AE Ermessenda de Carcassona&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Sant Pere més Alt 25&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08003&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.440674</latitude>
+            <longitude>2.190918</longitude>
+            <markername>small purple</markername>
+            <offset>7</offset>
+            <text>
+                &lt;h3&gt;AE Jaume I&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/Sant Adrià, 10&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08030&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.41715</latitude>
+            <longitude>2.150627</longitude>
+            <markername>small purple</markername>
+            <offset>8</offset>
+            <text>
+                &lt;h3&gt;AE Jaume I del Coll&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ Lluís Bonifaç, 2&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08023&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.38122</latitude>
+            <longitude>2.138598</longitude>
+            <markername>small purple</markername>
+            <offset>9</offset>
+            <text>
+                &lt;h3&gt;AE Joan Maragall&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ de Guitard, 8&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08014&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.40216</latitude>
+            <longitude>2.149261</longitude>
+            <markername>small purple</markername>
+            <offset>10</offset>
+            <text>
+                &lt;h3&gt;AE Pere Rosselló&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Ptge. Mulet, 4&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08006&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.401054</latitude>
+            <longitude>2.154758</longitude>
+            <markername>small purple</markername>
+            <offset>11</offset>
+            <text>
+                &lt;h3&gt;AE Ramon Llull&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ Ros de Olano, 6, 2n&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.407784</latitude>
+            <longitude>2.179781</longitude>
+            <markername>small purple</markername>
+            <offset>12</offset>
+            <text>
+                &lt;h3&gt;AE Terra-Nova&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Provença 591-593&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08026&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.40155</latitude>
+            <longitude>2.144694</longitude>
+            <markername>small purple</markername>
+            <offset>13</offset>
+            <text>
+                &lt;h3&gt;AE Wé-Ziza&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Jardins Brusi, s/n&lt;/div&gt;
+                &lt;span class="locality"&gt;BARCELONA&lt;/span&gt;, &lt;span class="postal-code"&gt;08006&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.530212</latitude>
+            <longitude>2.359358</longitude>
+            <markername>small purple</markername>
+            <offset>14</offset>
+            <text>
+                &lt;h3&gt;AE Montcabrer&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Av. Zona Esportiva, s/n&lt;/div&gt;
+                &lt;span class="locality"&gt;CABRILS&lt;/span&gt;, &lt;span class="postal-code"&gt;08348&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.637096</latitude>
+            <longitude>2.16326</longitude>
+            <markername>small purple</markername>
+            <offset>15</offset>
+            <text>
+                &lt;h3&gt;AE El Pasqualet&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Ctra. Sant Sebastià de Montmajor Km 3&lt;/div&gt;
+                &lt;span class="locality"&gt;CALDES DE MONTBUÍ&lt;/span&gt;, &lt;span class="postal-code"&gt;08140&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.28183</latitude>
+            <longitude>1.971791</longitude>
+            <markername>small purple</markername>
+            <offset>16</offset>
+            <text>
+                &lt;h3&gt;AE Grimpamons&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;Av. Lluís Companys 18-22&lt;/div&gt;
+                &lt;span class="locality"&gt;CASTELLDEFELS&lt;/span&gt;, &lt;span class="postal-code"&gt;08860&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.48934</latitude>
+            <longitude>2.138989</longitude>
+            <markername>small purple</markername>
+            <offset>17</offset>
+            <text>
+                &lt;h3&gt;AE Pau Casals&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ Santiago, 14, Bxs&lt;/div&gt;
+                &lt;span class="locality"&gt;CERDANYOLA DEL VALLÈS&lt;/span&gt;, &lt;span class="postal-code"&gt;08290&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.478264</latitude>
+            <longitude>2.311254</longitude>
+            <markername>small purple</markername>
+            <offset>18</offset>
+            <text>
+                &lt;h3&gt;AE Foc Nou&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ Sant Cristòfol, 26&lt;/div&gt;
+                &lt;span class="locality"&gt;EL MASNOU&lt;/span&gt;, &lt;span class="postal-code"&gt;08320&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+        <element>
+            <latitude>41.21817</latitude>
+            <longitude>1.527673</longitude>
+            <markername>small purple</markername>
+            <offset>19</offset>
+            <text>
+                &lt;h3&gt;AE Tant com puc&lt;/h3&gt;
+                &lt;div class="location vcard"&gt;&lt;div class="adr"&gt;
+                &lt;div class="street-address"&gt;C/ de la Pau, 12-14&lt;/div&gt;
+                &lt;span class="locality"&gt;EL VENDRELL&lt;/span&gt;, &lt;span class="postal-code"&gt;43700&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+            </text>
+        </element>
+    </markers>
+</root>
